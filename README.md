@@ -6,6 +6,7 @@ Tipping waiters for serving food depends on many factors like the type of restau
 - Tipping waiters for serving food depends on many factors like the type of restaurant, how many people you are with, how much amount you pay as your bill, etc. Waiter Tips analysis is one of the popular data science case studies where we need to predict the tips given to a waiter for serving food in a restaurant.
 
 # 10 restaurant server responsibilities 
+
 - Servers should know the menu well enough to help diners make an informed meal choice—and to upsell when possible.
 
 - Restaurant servers should be well-organized. Being well presented, keeping track of tables, and remembering orders requires focus and concentration. 
@@ -25,3 +26,5 @@ Tipping waiters for serving food depends on many factors like the type of restau
 - Servers must know all of a restaurant’s sanitation, safety, and alcohol policies. A health inspection could happen any day, and restaurant servers need to make sure they aren’t committing any violations.
 
 - Communication between servers to chefs and hosts on meal progression times is also key in keeping the restaurant running efficiently.
+
+[Reference](https://www.lightspeedhq.com/blog/how-to-a-be-a-good-server/)
